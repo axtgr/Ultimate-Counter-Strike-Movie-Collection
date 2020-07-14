@@ -6,8 +6,7 @@
 
 ---
 
-This is a torrent of Counter-Strike movies my friend and I hoarded during 2008-2012.
-Most of them are in the original quality, some cannot be found anywhere else.
+This is a torrent of Counter-Strike movies my friend and I hoarded during 2008-2012. No CS: Source or CS:GO, just 1.6 and below. Most of the movies are in the original quality, some cannot be found anywhere else.
 
 ## Download
 
