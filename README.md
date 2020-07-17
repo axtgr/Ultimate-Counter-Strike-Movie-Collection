@@ -6,6 +6,8 @@
 
 ---
 
+[![Buy me a beer](https://img.shields.io/badge/%F0%9F%8D%BA-Buy%20me%20a%20beer-red?style=for-the-badge)](https://www.buymeacoffee.com/axtgr)
+
 This is a collection of Counter-Strike movies my friend and I hoarded during 2008-2012. No CS: Source or CS:GO, just 1.6 and below. Most of the movies are in the original quality, some cannot be found anywhere else.
 
 ## Download
