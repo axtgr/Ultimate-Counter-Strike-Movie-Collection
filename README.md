@@ -49,11 +49,11 @@ There are currently two ways to download the movies:
 - 19d.cs.5x5.champ.mp4
 - 19inches (StarCup 2008).avi
 - 19inches_champ_27_12_2009.avi
-- 19inches*tourney_summer_2006*-\_CS_movie.avi
+- 19inches_tourney_summer_2006\_-_CS_movie.avi
 - 1lan2man.avi
 - 1nkkTMOI4.wmv
 - 1nkk\_-_The_Man_of_Immortality\_\_3.wmv
-- 1nkk*The_Man_of_Immortality_2*.wmv
+- 1nkk_The_Man_of_Immortality_2\_.wmv
 - 1st-Movie-by-Gash1k.wmv
 - 2 fast 2 furyous.wmv
 - 25-06-92.wmv
@@ -228,8 +228,8 @@ There are currently two ways to download the movies:
 - AlmightyPlayers3.wmv
 - Alone-2.mp4
 - alternate_approx_one.mp4
-- alternate*attax*-\_movie.mp4
-- Alternate*aTTaX*-\_The_Tribute.avi
+- alternate_attax\_-_movie.mp4
+- Alternate_aTTaX\_-_The_Tribute.avi
 - Amateur_Minimovie.wmv
 - Amazing_Gaming_WoMD_HQ.wmv
 - Amazing_Weapon.mp4
@@ -353,7 +353,7 @@ There are currently two ways to download the movies:
 - badcarma_khrystal.mp4
 - Bad_Boys_2 Deleted Scenes.wmv
 - BAMM2-Spawn.wmv
-- Bandylan*2007 *#1.wmv
+- Bandylan_2007 \_#1.wmv
 - BAPBAP & bLoodR 2 (by BAPBAP).avi
 - Bar_de_aux.mp4
 - Bass_Rezolution.mp4
@@ -374,7 +374,7 @@ There are currently two ways to download the movies:
 - Begrip - Gaming movie.avi
 - Begrip.tuzov_minimovie.mp4
 - Begrip_Born_2_Eliminate.avi
-- Begrip*russia*-\_The_Russian_Style_wmv-soniq.wmv
+- Begrip_russia\_-_The_Russian_Style_wmv-soniq.wmv
 - BELIEVE_IN_YOUR_SKILL.avi
 - BELKA_PSIX_Last_Battle.wmv
 - bEngen\_-_New_Divide.wmv
@@ -424,7 +424,7 @@ There are currently two ways to download the movies:
 - blackandyellow.mp4
 - BLACKWINGS SuperNova.avi
 - Black_Death.avi
-- Black*Death_2*-\_The_Second_Wave.avi
+- Black_Death_2\_-_The_Second_Wave.avi
 - blaowblaow.wmv
 - Blast your Mind.avi
 - blatman_and_r0ben.mp4
@@ -440,7 +440,7 @@ There are currently two ways to download the movies:
 - bloodReign.2005.Ceo&exe-nVi.wmv
 - bloody_murder.mp4
 - Blood_Game.wmv
-- Blood*Game*.wmv
+- Blood_Game\_.wmv
 - blood_sky.wmv
 - Blowwow.avi
 - Blue_Fragmovie.avi
@@ -462,19 +462,19 @@ There are currently two ways to download the movies:
 - Bombsight_e1337.wmv
 - BombSight_fragline2.mp4
 - Bondal_Minimovie.wmv
-- Boomin*-\_Gremlin*&\_eXploy_Best_Friends.wmv
+- Boomin\_-_Gremlin\_&_eXploy_Best_Friends.wmv
 - BorJomi.mp4
 - botka.avi
 - botka.mp4
 - botka_2.mp4
 - botkillarn.wmv
 - botx_essential.avi
-- bot*ownage*-\_07.wmv
+- bot_ownage\_-_07.wmv
 - BOUNTY.avi
 - BoxG.lv_FragMovie.wmv
 - BPArCuCTeMbl Last Battle 01.05.2010.wmv
 - BPArCuCTeMbl.mp4
-- BPArCuCTeMbl*Old_And_New_Frags*-\_2008-2011.wmv
+- BPArCuCTeMbl_Old_And_New_Frags\_-_2008-2011.wmv
 - BPArCuCTeMbl_some_frags_5.wmv
 - BPArCuCTeMbl_some_frags_6.wmv
 - BPArCuCTeMbl_some_frags_7.wmv
@@ -558,17 +558,17 @@ There are currently two ways to download the movies:
 - ceM\_-_theONE.avi
 - center_19_inches_restyling.avi
 - Certain_NN-\_Beta.mp4
-- CEVO*Cinema*-\_S4_Highlights.mp4
+- CEVO_Cinema\_-_S4_Highlights.mp4
 - CEVO_Season_4_Pro_Placement.wmv
 - cgmedia presents - Artefact.wmv
-- Ch1pI*NoFear2*-\_Ch1pISTUDIO.wmv
+- Ch1pI_NoFear2\_-_Ch1pISTUDIO.wmv
 - Ch1pI_No_Fear.wmv
 - Ch9rlie\_-_Demosrensing.avi
 - Challenge_BETA.mp4
 - champions\_-_pass_that_dutch.wmv
 - Chams.mp4
 - CHAOTIC-2\_(beta_preview_by_s0iL)\_xvid.avi
-- CHAOTIC*by_s0iL*(xViD\_-_7300kbps).avi
+- CHAOTIC_by_s0iL\_(xViD\_-_7300kbps).avi
 - Charlotte.wmv
 - Chase_Project.mp4
 - ChebyPower.mp4
@@ -590,7 +590,7 @@ There are currently two ways to download the movies:
 - Ciex_The_Movie.avi
 - Clan_Otur.avi
 - clan_otur_full.avi
-- Classinen*3*-\_Everlasting_xvid.avi
+- Classinen_3\_-_Everlasting_xvid.avi
 - CLD.mp4
 - clix - 104-28-2.wmv
 - ClowN Team Movie.avi
@@ -676,7 +676,7 @@ There are currently two ways to download the movies:
 - cpl_w04_cs_finals.wmv
 - CPL_Winter_2004.wmv
 - CPL_Winter_2005.wmv
-- cpl*winter_2005*.wmv
+- cpl_winter_2005\_.wmv
 - Cracks.avi
 - craft1k.mp4
 - Crash_Weapons_2.avi
@@ -684,8 +684,8 @@ There are currently two ways to download the movies:
 - crazy glock 2.avi
 - crazyglock3.avi
 - crazy_glock.wmv
-- crazy*glock_prod*-\_ best russia awp.avi
-- Crazy*Style*-\_Sex_Pistols.mp4
+- crazy_glock_prod\_-\_ best russia awp.avi
+- Crazy_Style\_-_Sex_Pistols.mp4
 - Criminal_beat.mp4
 - Crippe_Divided_Thoughts.mkv
 - Cross-Fire.mp4
@@ -737,7 +737,7 @@ There are currently two ways to download the movies:
 - cs_toshiba.avi
 - CTA-1337.wmv
 - CTA-Sight.wmv
-- CTA-Sight*2*-\_Halloween_Night.wmv
+- CTA-Sight_2\_-_Halloween_Night.wmv
 - Ctaulep Minimovie.wmv
 - Cube.mp4
 - Cult_Victory.mp4
@@ -845,7 +845,7 @@ There are currently two ways to download the movies:
 - derek.mp4
 - Derosa_by_s1ntax.wmv
 - desp1kkk_The_Movie.mp4
-- Destination*Skyline*-\_Reach_the_Horizon.avi
+- Destination_Skyline\_-_Reach_the_Horizon.avi
 - Destiny.mp4
 - Destroyer.mp4
 - Destructive Power.avi
@@ -946,7 +946,7 @@ There are currently two ways to download the movies:
 - Dreamhack_Summer_2009.mp4
 - DreamHack_summer_2009.wmv
 - Dreamhack_Summer_2011.avi
-- Dreamhack*Summer_2011*(All_Events).mp4
+- Dreamhack_Summer_2011\_(All_Events).mp4
 - Dreamhack_Summer_2011_Day_1_Recap.mp4
 - Dreamhack_Summer_2011_Day_2_Recap.mp4
 - Dreamhack_Summer_2011_Files.avi
@@ -955,7 +955,7 @@ There are currently two ways to download the movies:
 - Dreaming.mp4
 - dreamMakers_GaminG_ReborN.avi
 - Dreamnation.avi
-- DREAMPAST*PRESENTS*-\_Hurtig_This Is_The_End.wmv
+- DREAMPAST_PRESENTS\_-_Hurtig_This Is_The_End.wmv
 - Dreams.wmv
 - Dreamscape.wmv
 - dreamscape2.wmv
@@ -1050,7 +1050,7 @@ There are currently two ways to download the movies:
 - elysium_the_movie.avi
 - elytsle.mp4
 - el\_&_BrC_FRAGSHOW_07-11.mp4
-- el*-\_SOME_FRAGS*#2.avi
+- el\_-_SOME_FRAGS\_#2.avi
 - el_FRAGSHOW.mp4
 - el_HighLights.mp4
 - EM4 Europe.wmv
@@ -1071,7 +1071,7 @@ There are currently two ways to download the movies:
 - Endless.mp4
 - End_Credits.wmv
 - eNemouse.avi
-- Enemy*Within*-\_FINAL.wmv
+- Enemy_Within\_-_FINAL.wmv
 - energodar_territory_3.wmv
 - Energy_Soul.mp4
 - eneto.wmv
@@ -1092,7 +1092,7 @@ There are currently two ways to download the movies:
 - epic.mp4
 - epiCon.mp4
 - epsnordic_II.mp4
-- EPS*Bulgaria*-\_Season_1_beta.avi
+- EPS_Bulgaria\_-_Season_1_beta.avi
 - EQteam_movie.mp4
 - EQUALITY.mp4
 - equalitypnmovie.mp4
@@ -1118,9 +1118,9 @@ There are currently two ways to download the movies:
 - ESEA News Week in Review - ESEA LAN Season 5.mp4
 - ESEA News Week in Review - ESL IEM - Episode 1.mp4
 - ESEA News Week in Review - ESL IEM - Episode 2.mp4
-- ESEA*Invite_Season_10_2011*-\_2012.mp4
+- ESEA_Invite_Season_10_2011\_-_2012.mp4
 - ESEA_Season_10_Playoffs_2012.mp4
-- ESL*Extreme_Masters_III*-i.avi
+- ESL_Extreme_Masters_III\_-i.avi
 - esnn_movie_awards1_what.wmv
 - eSp.presents.wmv
 - esp.wmv
@@ -1140,7 +1140,7 @@ There are currently two ways to download the movies:
 - ESWC_2007.avi
 - ESWC_2008.wmv
 - ESWC_2010.mp4
-- ESWC*2010*(Presented_by_Steelseries).mp4
+- ESWC_2010\_(Presented_by_Steelseries).mp4
 - ESWC_2011.mp4
 - ESWC_Female_2005.wmv
 - eswc_masters_2008.wmv
@@ -1151,8 +1151,8 @@ There are currently two ways to download the movies:
 - Etheral.avi
 - etirNity aka hockeybiffeN.wmv
 - etirNity_aka_lanbiffeN.wmv
-- Eu*Mata_Voce_3*-\_The_Wild_Deuce.wmv
-- Eu*Mata_Voce_4*-\_Forever_Wild.mp4
+- Eu_Mata_Voce_3\_-_The_Wild_Deuce.wmv
+- Eu_Mata_Voce_4\_-_Forever_Wild.mp4
 - ev0.wmv
 - Eve.mp4
 - Evening_Sun.wmv
@@ -1230,7 +1230,7 @@ There are currently two ways to download the movies:
 - fairytale2.mp4
 - Faith.avi
 - Fajk WAY TO GLORY.wmv
-- Fajk*emo_kraws-new_noise-*-beta.wmv
+- Fajk_emo_kraws-new_noise-\_-beta.wmv
 - Fake_Glamour.wmv
 - FAKKAUR-THE-_-LAST-_-BREATH.wmv
 - FalleN.wmv
@@ -1311,22 +1311,22 @@ There are currently two ways to download the movies:
 - Flexien Showtime.wmv
 - flexien-Gameharmony2.wmv
 - Flexz\_-_Underground_Frags.wmv
-- Flexz*2*-\_The_Comeback.wmv
-- Flexz*3*-\_From_November_To_December.wmv
-- Flexz*4*-\_Enemy_At_The_Gates.wmv
-- Flipper*&\_Friends*-\_Skillz_of_Boras.wmv
-- Flipper*&\_Friends*-\_Skillz_of_Boras_2.wmv
-- Flipper*&\_Friends*-\_Skillz_of_Boras_3_PlayHard.wmv
+- Flexz_2\_-_The_Comeback.wmv
+- Flexz_3\_-_From_November_To_December.wmv
+- Flexz_4\_-_Enemy_At_The_Gates.wmv
+- Flipper\_&_Friends\_-_Skillz_of_Boras.wmv
+- Flipper\_&_Friends\_-_Skillz_of_Boras_2.wmv
+- Flipper\_&_Friends\_-_Skillz_of_Boras_3_PlayHard.wmv
 - Flipside_Evolution.wmv
 - FLIPSIDE_Presents_reMoNdE2_by_Remonde.wmv
-- float*away*-\_beta.avi
+- float_away\_-_beta.avi
 - Flow_Winds.mp4
 - fltrnserbia-movie.wmv
 - FluBBa_1.wmv
 - flwster.mp4
 - Flying_Steps.mp4
 - fnatic - reaching new heights.avi
-- fnatic-f0rest@EMIII*Global_Finals*-\_by_unDa.mp4
+- fnatic-f0rest@EMIII_Global_Finals\_-_by_unDa.mp4
 - fnatic.f0restminimoviebyN3utr0.avi
 - fnatic.f0rest_minimovie.wmv
 - fnatic.MSI.female.avi
@@ -1336,7 +1336,7 @@ There are currently two ways to download the movies:
 - fnatic.MSI\_@_Arbalet_Cup_2010.mp4
 - fnatic.MSI\_@_KGC_2010_Highlights.mp4
 - fnatic.MSI_Dust_Unleashed.avi
-- fnatic.MSI*f0rest*-\_GC_Shanghai_MVP.mp4
+- fnatic.MSI_f0rest\_-_GC_Shanghai_MVP.mp4
 - fnatic.MSI_PLAY_Beat_It_Grand_Finals_Movie.mp4
 - FnaticMSI.Road.to.Dreamhack.avi
 - fnaticMSI_at_Adepto_BH_Open.mp4
@@ -1344,7 +1344,7 @@ There are currently two ways to download the movies:
 - Fnatic_Crashing_Stars.mp4
 - fnatic_msi_just_pistols.mp4
 - fnatic_playbook_de_train.avi
-- Fnatic*Play_2011*&\_WCG_Sweden_2011_Highlights.avi
+- Fnatic_Play_2011\_&_WCG_Sweden_2011_Highlights.avi
 - fnx_back_to_action.wmv
 - Focus.avi
 - fOKUS.wmv
@@ -1403,7 +1403,7 @@ There are currently two ways to download the movies:
 - Fragshow!.mp4
 - fragshow_08.mp4
 - FragsoftheWeek5.wmv
-- Frags*Arena_6*-\_CPL_Copenhagen_2003.wmv
+- Frags_Arena_6\_-_CPL_Copenhagen_2003.wmv
 - Frags_Arena_7.wmv
 - Frags_Around \_Wmo.avi
 - Frags_Fever.mp4
@@ -1455,7 +1455,7 @@ There are currently two ways to download the movies:
 - Frisky.mp4
 - fRoD - Clairvoyant.wmv
 - FrodoMovie.avi
-- fRoD*-\_Quick_and_nasty*(part1).mp4
+- fRoD\_-_Quick_and_nasty\_(part1).mp4
 - From_My_POV.mp4
 - From_Rookie_to_MVP.avi
 - From_Tunis.mp4
@@ -1482,7 +1482,7 @@ There are currently two ways to download the movies:
 - fxdoingpga2007bywombatzXvd.avi
 - FYRR73_TOPIC.wmv
 - FYRR73_Unstoppable.mkv
-- F*1N*-\_Time_to_Say_Goodbye.mp4
+- F_1N\_-_Time_to_Say_Goodbye.mp4
 - Ga.R.I.\_frag_collection_2009.mp4
 - Galacticos 2007 - 2009 - Final x264.mp4
 - galant\_-_is_kickin_it.wmv
@@ -1522,7 +1522,7 @@ There are currently two ways to download the movies:
 - get_bang.mp4
 - get_real.avi
 - GeT_RiGhT or die tryin.avi
-- GeT*RiGhT*-\_Insane_Skill.avi
+- GeT_RiGhT\_-_Insane_Skill.avi
 - GeT_RiGhT_Begrip.wmv
 - GeT_RiGhT_Fragmovie.mp4
 - GeT_RiGhT_NOW.mp4
@@ -1740,7 +1740,7 @@ There are currently two ways to download the movies:
 - icelandic.cfg.wmv
 - IceWorld.wmv
 - ICSTRIM SERIES.mp4
-- idle*cs*-\_Experience.mp4
+- idle_cs\_-_Experience.mp4
 - ID_by_navigator_xvid.avi
 - IEM5_day3_4_recap.mp4
 - IEM5_day_1_recap.mp4
@@ -1749,14 +1749,14 @@ There are currently two ways to download the movies:
 - IEM6_GC_Kiev_2012_2.mp4
 - IEM6_GC_Kiev_Qualifier_Stage_3_2011.mp4
 - IEM6_GC_New_York_European_qual_1_and_2_2011.mp4
-- IEM6*Global_Challenge_Guangzhou*-\_Day_one_recap.mp4
-- IEM6*Global_Challenge_Guangzhou*-\_Day_three_and_four_recap.mp4
-- IEM6*Global_Challenge_Guangzhou*-\_Day_two_recap.mp4
+- IEM6_Global_Challenge_Guangzhou\_-_Day_one_recap.mp4
+- IEM6_Global_Challenge_Guangzhou\_-_Day_three_and_four_recap.mp4
+- IEM6_Global_Challenge_Guangzhou\_-_Day_two_recap.mp4
 - IEM6_Global_Challenge_Guangzhou_2011.mp4
 - IEM6_Global_Challenge_Kiev_2012.mp4
-- IEM6*Global_Challenge_New_York*-\_Day_one_recap.mp4
-- IEM6*Global_Challenge_New_York*-\_Day_three_and_four_recap.mp4
-- IEM6*Global_Challenge_New_York*-\_Day_two_recap.mp4
+- IEM6_Global_Challenge_New_York\_-_Day_one_recap.mp4
+- IEM6_Global_Challenge_New_York\_-_Day_three_and_four_recap.mp4
+- IEM6_Global_Challenge_New_York\_-_Day_two_recap.mp4
 - IEM6_Global_Challenge_New_York_2011.mp4
 - IEM6_New_York_Final_Qualifier_2011.mp4
 - IEM_6_GC_Guangzhou_US_Qualifier_2011.mp4
@@ -1831,7 +1831,7 @@ There are currently two ways to download the movies:
 - Intel Extreme Masters 4 Global Finals.mp4
 - Intel_Challenge_Super_Cup_7_Finals_2011.mp4
 - Intel_Challenge_Super_Cup_8_Finals_2011.mp4
-- Intel*Extreme_Masters_III*-\_Global_Finals.wmv
+- Intel_Extreme_Masters_III\_-_Global_Finals.wmv
 - Intel_Extreme_Masters_V_Global_Finals.mp4
 - IntensePlay 2 .wmv
 - Intension.avi
@@ -1903,7 +1903,7 @@ There are currently two ways to download the movies:
 - jericho.mp4
 - jerk it out.wmv
 - jERRYN.avi
-- JespheR*and_Monster*-\_Unstoppable.720p.XviD.avi
+- JespheR_and_Monster\_-_Unstoppable.720p.XviD.avi
 - Jester.mp4
 - Jesus_Loves_You.wmv
 - jEx - ASUS Open Summer09.wmv
@@ -1934,7 +1934,7 @@ There are currently two ways to download the movies:
 - Joshua R! Sex in Ketten #2.mp4
 - Joshua-R--Sex-in-Ketten--3.mp4
 - JOSHUAR10.mp4
-- Joshua*R_Sex_in* Ketten_1.mp4
+- Joshua_R_Sex_in\_ Ketten_1.mp4
 - josstE[3].wmv
 - Journey_Through_The_Unknown.mp4
 - JQKER\_-_Im_FUCKING_BLUE.mp4
@@ -2009,7 +2009,7 @@ There are currently two ways to download the movies:
 - kgb_movie_2_by_z0la.wmv
 - kHARI - THE MAN.wmv
 - kHARI\_-_THE_CLEANER.wmv
-- kHARI*and_moZKi*-\_The_Unknown_Players.wmv
+- kHARI_and_moZKi\_-_The_Unknown_Players.wmv
 - khawi_slayer.wmv
 - khawi_slayer_of_Doom.wmv
 - khrome.mp4
@@ -2026,7 +2026,7 @@ There are currently two ways to download the movies:
 - Killing with a Smile.wmv
 - KillingSpree1.avi
 - KillingSpree5.avi
-- Killing*Spree*-\_Gosey.avi
+- Killing_Spree\_-_Gosey.avi
 - Killwars - Just Another Player.wmv
 - killwars\_-_living_in_style.avi
 - killyourself.divx
@@ -2075,7 +2075,7 @@ There are currently two ways to download the movies:
 - Kozedyr - Fra Null til Gull.wmv
 - KPuMuHAJI CS 1.6 Movie 3.wmv
 - Krankussy - Under Attack.wmv
-- krantsi*amp_lizz0r*-\_nluwdc.mp4
+- krantsi_amp_lizz0r\_-_nluwdc.mp4
 - KrasNet_Gaming.avi
 - kreMp - Teh Movie.wmv
 - KroeneN - Superhero.wmv
@@ -2095,7 +2095,7 @@ There are currently two ways to download the movies:
 - kUtA\_-_up_in_smoke.wmv
 - KUTA_FINAL.wmv
 - kuviCk_Mini_Movie.wmv
-- KviCk*2*-\_Kill_Me_KviCker.wmv
+- KviCk_2\_-_Kill_Me_KviCker.wmv
 - kvirre&friends_UNFINISHEDbeta.wmv
 - kvirre-flt-5mbpsFINAL.wmv
 - Kwongquer.mkv
@@ -2121,7 +2121,7 @@ There are currently two ways to download the movies:
 - Last_Sigh.mp4
 - LatvianIMPRESSleagueChallenge.avi
 - Laundry_2.mp4
-- Layered-X*Grand_Championships*(CEVO-P_season_3_Playoffs).wmv
+- Layered-X_Grand_Championships\_(CEVO-P_season_3_Playoffs).wmv
 - Lazzo.cfg III by Adam'ail'Johansson.wmv
 - LA_BOYS.wmv
 - Lc.kniGhts - Conflict.avi
@@ -2217,7 +2217,7 @@ There are currently two ways to download the movies:
 - LUq.mp4
 - Lurppis.avi
 - Lurppis_2.avi
-- Lurppis*3*-\_Crucial_Shots.wmv
+- Lurppis_3\_-_Crucial_Shots.wmv
 - Lurppis_4_beta.wmv
 - Lurppis_5.wmv
 - luun - atoc_by_ved.wmv
@@ -2239,7 +2239,7 @@ There are currently two ways to download the movies:
 - made for this.wmv
 - Made In Russia.avi
 - Made_in_Brazil_2003-2009.mp4
-- Made*In_Georgia*-\_Aftershock.mp4
+- Made_In_Georgia\_-_Aftershock.mp4
 - made_in_russia_2.avi
 - Made_in_Tula.wmv
 - Made_Minimovie.mp4
@@ -2272,7 +2272,7 @@ There are currently two ways to download the movies:
 - Manne\_-_Heartbeats.mp4
 - mAque_the_games`s_way.wmv
 - Marcus_zet_Sundstrom.wmv
-- margo*amp_deadman*-\_general_passion.avi
+- margo_amp_deadman\_-_general_passion.avi
 - MARIO_3.wmv
 - Mario_Strike.wmv
 - markeloff.mp4
@@ -2306,7 +2306,7 @@ There are currently two ways to download the movies:
 - Mega_Acervus_Cup_2011.mp4
 - Mehkra\_-_MK.wmv
 - Melkiy.wmv
-- MementoMori*by_el*.avi
+- MementoMori_by_el\_.avi
 - memorable.mp4
 - Memory.wmv
 - Memory_puzzzy.avi
@@ -2323,14 +2323,14 @@ There are currently two ways to download the movies:
 - MHFINAL.wmv
 - Mibr - Extreme Frags 2004.avi
 - mibrcup2.avi
-- MIBR*2008*-_Insane_.wmv
+- MIBR*2008\_-_Insane*.wmv
 - MiBR_ESWC_2006.wmv
 - MiBr_the_Best_of_America.wmv
 - mibr_world_tour_2008.mp4
 - Mibr_world_tour_2008_fever.wmv
 - MickenseN the mini-movie (2007-2008).mp4
 - MickenseN.mp4
-- mickensen*3*-\_overflow.mp4
+- mickensen_3\_-_overflow.mp4
 - Midnight Sun.mp4
 - Midnight.mp4
 - Mighty_2.mp4
@@ -2355,7 +2355,7 @@ There are currently two ways to download the movies:
 - miniwalle\_-_kortfilmenisighej.wmv
 - Mini_Movie_About_Tig3r.mp4
 - Mini_Movie_About_Tigre_2.mp4
-- MIN*MOVIE*-\_(T-ksFrags)byUNFA1R.avi
+- MIN_MOVIE\_-\_(T-ksFrags)byUNFA1R.avi
 - Mir-Tv_Frag_Collection_2.mp4
 - Miracle.wmv
 - Mirage_Motion.wmv
@@ -2406,10 +2406,10 @@ There are currently two ways to download the movies:
 - mousesports.avi
 - Mousesports2007.wmv
 - mousesports\_-_EPS_7_The_Finals.avi
-- Mousesports*2008*-_Ready_Willing_&\_Able.avi
+- Mousesports*2008\_-_Ready_Willing*&\_Able.avi
 - mousesports_at_ESWC_2005.wmv
 - Mousesports_Community_Movie_09.mp4
-- mouz.GeForce*fan-movie*(dl_by_Locman).avi
+- mouz.GeForce_fan-movie\_(dl_by_Locman).avi
 - mouziq.wmv
 - Move.mp4
 - Movie About luq skywalker.avi
@@ -2466,7 +2466,7 @@ There are currently two ways to download the movies:
 - mustdie_a0ke.wmv
 - MVD\_&_Hezix_Minimovie.mp4
 - MVPFRAGMOVIE_777.avi
-- MVP*sashqaaa*&\_Vovan.avi
+- MVP_sashqaaa\_&_Vovan.avi
 - MVP_TW2.avi
 - MxS - Frag Story.wmv
 - My Family.mp4
@@ -2475,7 +2475,7 @@ There are currently two ways to download the movies:
 - myasik_on-line_make-4y_prod_2008.mp4
 - mycrisis.mp4
 - mYm_on_IEM_5_Euro_Finals.mp4
-- MYM*vs_NP!*@\_IEM5.mp4
+- MYM_vs_NP!\_@\_IEM5.mp4
 - Mystic\_(Oh_the_verge).mp4
 - my_deagle_show_2010.mp4
 - My_Eve.wmv
@@ -2483,7 +2483,7 @@ There are currently two ways to download the movies:
 - My_Mixtape.mp4
 - my_myanalog.avi
 - My_Solo_2.avi
-- My*Solo_3*-\_End_of_Game.wmv
+- My_Solo_3\_-_End_of_Game.wmv
 - my_steam_friends.mp4
 - My_Team_Mates.wmv
 - N-G4ming2.avi
@@ -2520,7 +2520,7 @@ There are currently two ways to download the movies:
 - navi_on_the_way_to_victory_2.mp4
 - Navsegda.mp4
 - Na`Vi\_-_On_The_Way_To_Victory.mp4
-- Na`Vi*Advanced*@\_IEM5.mp4
+- Na`Vi_Advanced\_@_IEM5.mp4
 - Na`Vi_starix_The_Movie.mp4
 - Necro.mp4
 - Necrophobia2beta.zip
@@ -2569,10 +2569,10 @@ There are currently two ways to download the movies:
 - Ninja_2.wmv
 - Ninja_4_The_Final_Rendition.rar
 - Ninja_5.mp4
-- Ninja*Defuse*-_Top_10_Clutches_in_CS_History_(10-6).mp4
-- Ninja*Defuse*-_Top_10_Clutches_in_CS_History_(5-1).mp4
+- Ninja*Defuse\_-_Top_10_Clutches_in_CS_History*(10-6).mp4
+- Ninja*Defuse\_-_Top_10_Clutches_in_CS_History*(5-1).mp4
 - Ninja_night_warrior.mp4
-- Ninja*style*-\_Ninjas_of_the_cyberspace.wmv
+- Ninja_style\_-_Ninjas_of_the_cyberspace.wmv
 - Nip - back to the roots.avi
 - NiP - The 5 Giants.wmv
 - NiP Does Gamegune - 05.avi
@@ -2581,7 +2581,7 @@ There are currently two ways to download the movies:
 - NIP.wmv
 - Nixon - Starting A Riot.mp4
 - NND2_by_Dan.mp4
-- No.Limit*Fragmovie_2008*.avi
+- No.Limit_Fragmovie_2008\_.avi
 - NoA-TheTwoContinents.avi
 - noeffmode\_\_\_property_of_olasjoberg.wmv
 - Noel.mp4
@@ -2669,11 +2669,11 @@ There are currently two ways to download the movies:
 - OneBullet_2.mp4
 - Oneill\_-_Last_Breath.wmv
 - Oneshoot.wmv
-- One*Bullet*-\_Only_Desert_Eagle.wmv
-- One*Bullet*-\_The_Reminiscence.mp4
+- One_Bullet\_-_Only_Desert_Eagle.wmv
+- One_Bullet\_-_The_Reminiscence.mp4
 - One_Click.wmv
-- One*Day*-\_Two_Talents.mp4
-- One*Life*-\_One_Death.avi
+- One_Day\_-_Two_Talents.mp4
+- One_Life\_-_One_Death.avi
 - One_Life_One_Chance.mp4
 - one_more_time.avi
 - One_Shot_is_One_Life.mp4
@@ -2767,7 +2767,7 @@ There are currently two ways to download the movies:
 - petersthemovie.wmv
 - Petr.D\_-_The_Last_Moments.mp4
 - pffT - The Infamous.wmv
-- PFMM*by_daN_xvid.mp3\_\_final*.avi
+- PFMM_by_daN_xvid.mp3\_\_final\_.avi
 - Phantuz\_-_An_Allegory.wmv
 - Phenomen\_-_Defying_Limits.wmv
 - piece-of-cake.wmv
@@ -2839,8 +2839,8 @@ There are currently two ways to download the movies:
 - pro100! - unstoppable.avi
 - pro100_Frag.avi
 - Professional Teams - M19.mkv
-- Professional*Gamers*-\_xek.wmv
-- Professional*Pistols*-\_f0rest.avi
+- Professional_Gamers\_-_xek.wmv
+- Professional_Pistols\_-_f0rest.avi
 - profissional.wmv
 - ProGamers3.zip
 - Project Ascension.avi
@@ -2873,7 +2873,7 @@ There are currently two ways to download the movies:
 - Prusha\_-_You_Cant_Stop_Me.mp4
 - Prusha_the_sixth_sense.wmv
 - Psycho_Cuz_I_Can.mp4
-- ptter*FYRR73_unt_hyvlarn*-\_The_Frag_Movie.wmv
+- ptter_FYRR73_unt_hyvlarn\_-_The_Frag_Movie.wmv
 - PUKE.mp4
 - pulse.avi
 - PumpAction_Punishment_2.wmv
@@ -2956,7 +2956,7 @@ There are currently two ways to download the movies:
 - Reckless2-beta.mp4
 - redeemer.avi
 - RedefiNe.mp4
-- REDSTUDIOS*-Presents*-Dangels\_-Part2.wmv
+- REDSTUDIOS\_-Presents\_-Dangels\_-Part2.wmv
 - RefLecTioN.avi
 - REFLEX(in the best frag's3).wmv
 - REFUSE2LOSE.mp4
@@ -2969,7 +2969,7 @@ There are currently two ways to download the movies:
 - Relax.mkv
 - remember.mp4
 - Renaissance.mp4
-- Renessance*Tournament_200*.avi
+- Renessance_Tournament_200\_.avi
 - Reneval.avi
 - Rengo.mp4
 - Renovatio.avi
@@ -2992,8 +2992,8 @@ There are currently two ways to download the movies:
 - Revel_Highlights.wmv
 - Revenge.wmv
 - Revenge_in_Fire.mp4
-- Revenge*in_Fire_2*-\_Bart.mp4
-- Revenge*in_Fire_3*-\_Days_of_Ashes.mp4
+- Revenge_in_Fire_2\_-_Bart.mp4
+- Revenge_in_Fire_3\_-_Days_of_Ashes.mp4
 - reVert Beta 01.avi
 - Revival.wmv
 - Revolution2.avi
@@ -3008,13 +3008,13 @@ There are currently two ways to download the movies:
 - RIFF - minimovie.wmv
 - Riga_Esport_Festival_2010_Movie.wmv
 - Rigid_Skill.mp4
-- Rigid*Skill_2*-\_Sml.avi
+- Rigid_Skill_2\_-_Sml.avi
 - Rikz - The Storm Is Coming.wmv
 - Rising Empire Final.wmv
 - RISSEN\_-_MiNiMOViE.wmv
 - Rixhack2005-final.wmv
 - rndm frag. by star.avi
-- Road*To_Victory*-\_fnatic_at_Dreamhack_Winter_2011.mp4
+- Road_To_Victory\_-_fnatic_at_Dreamhack_Winter_2011.mp4
 - ROCCAT.avi
 - Rocket_in_Sky.mp4
 - RockiT.avi
@@ -3025,7 +3025,7 @@ There are currently two ways to download the movies:
 - rockyu the beginning.wmv
 - ROEMPPAE6.wmv
 - Rogga(AWTR).wmv
-- Rogga*A_Walk_To_Remember*#2.wmv
+- Rogga_A_Walk_To_Remember\_#2.wmv
 - Roman - From rookie to MVP.avi
 - Romania 2010.mp4
 - Romanian Style.avi
@@ -3042,7 +3042,7 @@ There are currently two ways to download the movies:
 - rudman.wmv
 - rudman_minimovie.wmv
 - Ruination.avi
-- Ruling**North**America.wmv
+- Ruling_North_America.wmv
 - RUSH 32.wmv
 - Russia-vs-world.avi
 - Russian AWP Language.wmv
@@ -3084,17 +3084,17 @@ There are currently two ways to download the movies:
 - Sandvangen-\_-Ibland_gar_det.wmv
 - sansed the movie.wmv
 - Santa_Claus_Party.mp4
-- sapphire*almost* famous.zip
+- sapphire_almost\_ famous.zip
 - SAP_AzertyPartyLes10Ans_Xvid.avi
 - Saturday_Night_Live.wmv
 - savage the survivors.wmv
-- Save*the_last_bullet*-\_Ch1pISTUDIO.wmv
+- Save_the_last_bullet\_-_Ch1pISTUDIO.wmv
 - SAV_PROD_unnamed_movie.mp4
 - Saw.mp4
 - sax_mini_movie_x264.mp4
 - sbN-\_-2.wmv
 - sbN_first_encounter.wmv
-- Sbor*Players*-\_Winter_2009[0].mp4
+- Sbor_Players\_-_Winter_2009[0].mp4
 - sbz_the_movie.wmv
 - ScariuM_Quiet_aiM.wmv
 - Scary.mp4
@@ -3106,7 +3106,7 @@ There are currently two ways to download the movies:
 - Screen\_-_Face_to_Face_2.avi
 - Sea_Of_Smiles.wmv
 - Secondary_Weapons.avi
-- Second*Reality*-\_First_Blood.mp4
+- Second_Reality\_-_First_Blood.mp4
 - Secret.wmv
 - Section_8.wmv
 - SEC_2011_Best_Moments.mp4
@@ -3139,7 +3139,7 @@ There are currently two ways to download the movies:
 - SG The Movie.avi
 - Shades_beta.mkv
 - Shade_Of_Mirage.mp4
-- Shade*of_Mirage_2*-\_Lostpersons.avi
+- Shade_of_Mirage_2\_-_Lostpersons.avi
 - Shadow heL-.wmv
 - Shadows_of_the_Past.mp4
 - Shadow_Dangerous.avi
@@ -3188,13 +3188,13 @@ There are currently two ways to download the movies:
 - simpsons.wmv
 - Single Gaming 2 - Spectre.avi
 - Single-chance.wmv
-- Single*Gaming*-\_shme1ek_xd.avi
-- Single*Gaming_3*-\_StreL.avi
+- Single_Gaming\_-_shme1ek_xd.avi
+- Single_Gaming_3\_-_StreL.avi
 - Siodemka_The_Movie_3.avi
 - Sista Utposten - Pa langen kan ingen hora dig skrika.wmv
 - Sixbaners.mp4
 - Sixense.avi
-- Sixense*2*-\_More_Than_The_Game.avi
+- Sixense_2\_-_More_Than_The_Game.avi
 - sixer.avi
 - six_beta_4.avi
 - SizmO&rAdix_Old_frags_new_hope.wmv
@@ -3219,8 +3219,8 @@ There are currently two ways to download the movies:
 - Skillz_of_Boras_4.wmv
 - Skillz_of_Boras_5.wmv
 - Skill\_-_High_Voltage.avi
-- SKILL*BILL*-\_vol_2.wmv
-- Skill*Box*-\_kraulexz.avi
+- SKILL_BILL\_-_vol_2.wmv
+- Skill_Box\_-_kraulexz.avi
 - skill_from_belgium.avi
 - skill_of_sweden.mp4
 - skswedoesdallas.wmv
@@ -3462,8 +3462,8 @@ There are currently two ways to download the movies:
 - SYSTEM Movie.mpg
 - SYSTEM SummeR 2005.mpg
 - T01_natu.wmv
-- t1mon*-\_the_best_frags_2006*-\_2012.mp4
-- Tactical*2*-\_Clear_Blood.avi
+- t1mon\_-_the_best_frags_2006\_-_2012.mp4
+- Tactical_2\_-_Clear_Blood.avi
 - TACTICAL_Firstpart.avi
 - Tales of rowen by Barahuna.avi
 - Tamptation frags.mp4
@@ -3594,7 +3594,7 @@ There are currently two ways to download the movies:
 - The_Best_of_Lite.wmv
 - The_Best_of_MFA.avi
 - The_Best_of_Neo.mp4
-- The*Best_Of_Neo*.mp4
+- The_Best_Of_Neo\_.mp4
 - The_Best_of_trace.mp4
 - the_byfly_gamers_4_by_fiter.avi
 - The_Countrix.avi
@@ -3690,7 +3690,7 @@ There are currently two ways to download the movies:
 - Tomorrow.mp4
 - Tomsk Region Players.wmv
 - tomsk_players.avi
-- tondis*and_jankke*-\_Trail_to_Doomsday.wmv
+- tondis_and_jankke\_-_Trail_to_Doomsday.wmv
 - toop_players1.wmv
 - toop_players2.wmv
 - toop_players3.wmv
@@ -3705,7 +3705,7 @@ There are currently two ways to download the movies:
 - Top Mix of Shakhty.avi
 - Top Secret.mp4
 - Top10Frags3_By-Remonde.wmv
-- Top10*6*-\_New_Level.avi
+- Top10_6\_-_New_Level.avi
 - Top10_by_kain.mp4
 - Top10_Frags_Of_2010.mp4
 - Top10_Moviemakingfr_September_2009.mp4
@@ -3828,7 +3828,7 @@ There are currently two ways to download the movies:
 - Unknown_Murderers_2.avi
 - UnknowN_PlayerS_2.avi
 - Unleashed_Predator.avi
-- Unleash*the_Evil_3_dbz*&\_empi.mp4
+- Unleash_the_Evil_3_dbz\_&_empi.mp4
 - Unlimited.NET.wmv
 - uNO - The uNusual Player.avi
 - Uno_Gamestyle.avi
@@ -3862,7 +3862,7 @@ There are currently two ways to download the movies:
 - Vae_Victis_3_Lithium.mp4
 - vapor minimovie.wmv
 - varf_live_free.wmv
-- Vatos*Locos*-\_The_Revenge.wmv
+- Vatos_Locos\_-_The_Revenge.wmv
 - ved - ffs2008.wmv
 - vED_MOVIE.wmv
 - vegas_or_la.wmv
@@ -3914,7 +3914,7 @@ There are currently two ways to download the movies:
 - WaiC\_-_X-ESS_Granted.wmv
 - Wake_Up!.wmv
 - Walhalla.mp4
-- Walk*Over*-\_Total_Ownage.avi
+- Walk_Over\_-_Total_Ownage.avi
 - Wallbang Minimovie.wmv
 - Walle.mp4
 - walle\_-_Tiffany_Twisted.wmv
@@ -3943,11 +3943,11 @@ There are currently two ways to download the movies:
 - WCG_2010.mp4
 - WCG_2010_Novosibirsk.avi
 - WCG_2011.mp4
-- WCG*2011*-\_Sweden_National_Finals.mp4
+- WCG_2011\_-_Sweden_National_Finals.mp4
 - WCG_2011_Movie.mp4
-- WCG*2011_Romania*-\_Coverage_by_nevermoRe.mp4
-- WCG*2011_Romania*-\_Coverage_by_s1dK.avi
-- WCG*2011_Romania*-\_Coverage_by_Stecheru.mp4
+- WCG_2011_Romania\_-_Coverage_by_nevermoRe.mp4
+- WCG_2011_Romania\_-_Coverage_by_s1dK.avi
+- WCG_2011_Romania\_-_Coverage_by_Stecheru.mp4
 - WCG_2011_Ukraine_National_Finals.mp4
 - WCG_Brasil_2009.wmv
 - WCG_Brazil_and_Pan_American_2011.mp4
@@ -4070,7 +4070,7 @@ There are currently two ways to download the movies:
 - zekk_movie.wmv
 - zEr0 The Revenge.wmv
 - Zerohour.wmv
-- Zero*Tolerance*-\_The_great_Inspiration.avi
+- Zero_Tolerance\_-_The_great_Inspiration.avi
 - Zerty_CS_Movie.mp4
 - zet-someone to remember.avi
 - ZET_Movie.rar
@@ -4194,7 +4194,7 @@ There are currently two ways to download the movies:
 - Eternity.avi
 - eXJehY.wmv
 - experience.avi
-- Fact*or_Fiction*-\_Elemental_Jumps.avi
+- Fact_or_Fiction\_-_Elemental_Jumps.avi
 - Failicious.avi
 - Failicious_2.avi
 - Faker - The Movie.wmv
@@ -4247,13 +4247,13 @@ There are currently two ways to download the movies:
 - Ich_Bin_Bail.mp4
 - Ich_Bin_Win.mp4
 - Inferno-Action.avi
-- In*My_Dreams*-_HsOnAs_&\_ksiunkas.avi
+- In_My*Dreams\_-_HsOnAs*&\_ksiunkas.avi
 - Iris.avi
 - It_Starts.mp4
 - I_Love_NoirYork.mp4
 - j0nttuh_back_at_it.mp4
 - J0nY Half Year Later Movie (By Freak) MP4.mp4
-- Ja*Polnij_0*-\_The Movie.avi
+- Ja_Polnij_0\_-_The Movie.avi
 - jenTheMovie.wmv
 - Jen_The_movie_II.wmv
 - juanch0xs_265dcj_block.avi
@@ -4273,7 +4273,7 @@ There are currently two ways to download the movies:
 - k3g & akkord - Basics and beyond.mkv
 - k3G & PuppetZ - The Survivors.avi
 - k3g & rad - ability.mp4
-- k3G*&\_wRath*-\_the_rising.mp4
+- k3G\_&_wRath\_-_the_rising.mp4
 - k3g\_-_fancy_edge.avi
 - k3g\_-_Level_3.avi
 - k3g\_-_With_Sauce.avi
@@ -4402,7 +4402,7 @@ There are currently two ways to download the movies:
 - Surfology.mp4
 - surf_movie.avi
 - Synch.cj.avi
-- Syrle*and_Dilap*-\_Old_Kreedz_Friends.mp4
+- Syrle_and_Dilap\_-_Old_Kreedz_Friends.mp4
 - The Adventures of Ted and Target.wmv
 - The Art To Jump.wmv
 - The TALENTS.wmv
@@ -4428,23 +4428,23 @@ There are currently two ways to download the movies:
 - TROUbl3m4k3R\_-_The_Memories.mp4
 - unBreakS.avi
 - unique-hns\_-_just_perfect.avi
-- Unique*KZ*-\_The_Movie.avi
+- Unique_KZ\_-_The_Movie.avi
 - Unity_It_Power.wmv
 - unkrooftops.wmv
 - w1zz-\_-One_Step_Forward.mp4
-- w1zz*&\_dlx*-\_sync_nerves_pressure.avi
+- w1zz\_&_dlx\_-_sync_nerves_pressure.avi
 - way too c0ld.mkv
 - Wonderland.wmv
 - wRath - Acknowledged.avi
 - Xecor_trickjump_movie.wmv
-- XJ*Weekly*-\_The_Movie.avi
+- XJ_Weekly\_-_The_Movie.avi
 - XLM.Kz\_-_Team_2010_The_Movie.mp4
 - Xtreme-Jumps\_-_The_Movie.wmv
 - Xtreme-Jumps\_-_The_Movie_2.wmv
 - Year_One.mp4
 - Year_Two.avi
 - Z0ck3rOO7 - The Movie.wmv
-- Zefix*and_Ziper*-\_The_Movie.mp4
+- Zefix_and_Ziper\_-_The_Movie.mp4
 - zhady - Controlling Speed.avi
 - zhady\_-_lj_show.wmv
 - Zoom The jump.wmv
@@ -4487,8 +4487,8 @@ There are currently two ways to download the movies:
 - eeK!2.avi
 - EL - FUNACTIONS.avi
 - EmiltheMOVIE.wmv
-- eoLithic*bloopers*-\_special_feature.avi
-- Fatal*Mistake_aka_MEGAkinoII*(Divx_Rus).avi
+- eoLithic_bloopers\_-_special_feature.avi
+- Fatal_Mistake_aka_MEGAkinoII\_(Divx_Rus).avi
 - fcsm2007.wmv
 - Fragbite_Top5_funny_highlights_of_the_year_2011.mp4
 - Funny_Moments.mkv
