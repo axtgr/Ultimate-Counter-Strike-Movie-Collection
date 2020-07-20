@@ -10,6 +10,10 @@
 
 This is a collection of Counter-Strike movies [my friend](https://github.com/JustAndreww) and I hoarded during 2006-2012. No CS: Source or CS:GO, just 1.6 and below. Most of the movies are in the original quality, some cannot be found anywhere else.
 
+- [Discuss on Reddit](https://www.reddit.com/r/counterstrike/comments/htf1ej/my_collection_of_4498_oldschool_counterstrike)
+
+- [View on Archive.org](https://archive.org/details/ultimate-counter-strike-movie-collection_202007)
+
 ## Download
 
 There are currently two ways to download the movies:
