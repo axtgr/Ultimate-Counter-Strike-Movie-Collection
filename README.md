@@ -10,15 +10,14 @@
 
 This is a collection of Counter-Strike movies [my friend](https://github.com/JustAndreww) and I hoarded during 2006-2012. No CS: Source or CS:GO, just 1.6 and below. Most of the movies are in the original quality, some cannot be found anywhere else.
 
-- [Discuss on Reddit](https://www.reddit.com/r/counterstrike/comments/htf1ej/my_collection_of_4498_oldschool_counterstrike)
+[Discuss on Reddit](https://www.reddit.com/r/counterstrike/comments/htf1ej/my_collection_of_4498_oldschool_counterstrike)
 
-- [View on Archive.org](https://archive.org/details/ultimate-counter-strike-movie-collection_202007)
 
 ## Download
 
 There are currently two ways to download the movies:
 
-- On the [website](http://ophion.feralhosting.com/axtgr/Ultimate%20Counter-Strike%20Movie%20Collection/) (the speed will probably be low)
+- [From Archive.org](https://archive.org/details/ultimate-counter-strike-movie-collection_202007)
 
 - Using torrent. For this, either [download the torrent file](https://github.com/axtgr/Ultimate-Counter-Strike-Movie-Collection/raw/master/Ultimate%20Counter-Strike%20Movie%20Collection.torrent) or copy the following magnet link and paste it in your torrent client:
 
